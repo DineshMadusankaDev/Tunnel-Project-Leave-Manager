@@ -1,0 +1,19 @@
+{
+  "name": "Tunnel Project Leave Manager",
+  "short_name": "Leave Manager",
+  "description": "Employee leave request and approval manager for Habarana–Palugaswewa Tunnel Project.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f7f5",
+  "theme_color": "#123b35",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
